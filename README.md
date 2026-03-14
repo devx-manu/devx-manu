@@ -4,8 +4,8 @@
 📍 Bengaluru, India  
 
 ## 🧑‍💻 About Me  
-- 🎓 BCA graduate from **K.L.E. Society's S. Nijalingappa College, Bengaluru**
-- 📚 Currently pursuing **Java Full Stack Development**
+
+- 📚 **Java Full Stack Development**
 - 🔍 Strong in **Core Java & backend fundamentals**
 - ☁️ Actively learning **DevOps tools & cloud concepts**
 
