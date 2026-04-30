@@ -7,10 +7,10 @@
 
 Backend-focused developer with a strong foundation in Java and system design principles, currently evolving into a DevOps-driven engineer.
 
-⚙️ Building scalable backend systems using Java ecosystem
+⚙️ Building scalable backend systems using the Java ecosystem
 🔐 Understanding real-world security (Spring Security, API protection)
-☁️ Transitioning into Cloud & DevOps engineering mindset
-🧠 Long-term vision: AI-powered systems + automation platforms
+☁️ Transitioning into a Cloud & DevOps engineering mindset
+🧠 Long-term vision: AI-powered systems and automation platforms
 
 🛠️ Tech Stack
 
@@ -31,11 +31,14 @@ Kubernetes (fundamentals)
 Jenkins (CI/CD basics)
 AWS (EC2, S3, IAM – foundational understanding)
 Postman (API testing)
+
 🧠 Currently Focused On
-🔥 Spring & Spring Boot (Production-level backend development)
-🧩 Data Structures & Algorithms (Problem-solving mindset)
-⚙️ DevOps Hands-on (CI/CD + Containers + Deployment)
-🏗️ Building real-world backend + deployment projects
+
+🔥 Spring & Spring Boot (production-level backend development)
+🧩 Data Structures & Algorithms (problem-solving mindset)
+⚙️ DevOps hands-on (CI/CD, containers, deployment)
+🏗️ Building real-world backend and deployment projects
+
 🎯 Vision
 
 To become a high-impact engineer who can:
@@ -43,9 +46,12 @@ To become a high-impact engineer who can:
 Design scalable backend systems
 Automate infrastructure using DevOps practices
 Build intelligent systems using AI + backend integration
+
 📈 What Sets Me Apart
+
 Strong fundamentals-first approach
 Focus on real-world system building, not just theory
-Continuous transition from developer → engineer → builder
+Continuous growth from developer → engineer → builder
+
 🤝 Connect With Me
 💼 LinkedIn: Manu SH
