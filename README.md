@@ -1,37 +1,51 @@
-# 👋 Hi, I'm Manu SH  
+👋 Hi, I'm Manu SH
 
-🚀 **Java Full Stack Developer | DevOps Enthusiast 
-📍 Bengaluru, India  
+🚀 Java Backend Engineer | DevOps Engineer
+📍 Bengaluru, India
 
-## 🧑‍💻 About Me  
+🧑‍💻 About Me
 
-- 📚 **Java Full Stack Development**
-- 🔍 Strong in **Core Java & backend fundamentals**
-- ☁️ Actively learning **DevOps tools & cloud concepts**
+Backend-focused developer with a strong foundation in Java and system design principles, currently evolving into a DevOps-driven engineer.
 
-## 🛠️ Tech Stack  
+⚙️ Building scalable backend systems using Java ecosystem
+🔐 Understanding real-world security (Spring Security, API protection)
+☁️ Transitioning into Cloud & DevOps engineering mindset
+🧠 Long-term vision: AI-powered systems + automation platforms
 
-### 👨‍💻 Backend & Web  
-- Java (Core, OOPs, Collections, Multithreading)
-- JDBC, Hibernate  
-- HTML, CSS, JavaScript  
-- SQL  
+🛠️ Tech Stack
 
-### ⚙️ DevOps & Tools  
-- Linux (basics: file system, permissions)
-- Git & GitHub  
-- Maven  
-- Jenkins (CI/CD basics)  
-- Docker (containerization)  
-- Kubernetes (basics)  
-- AWS (EC2, S3, IAM – fundamentals)  
-- Postman  
+👨‍💻 Backend Engineering
+Java (Core, OOP, Collections, Multithreading)
+JDBC, Hibernate
+REST API Development
+SQL (Relational Database Design & Queries)
+🌐 Web Technologies
+HTML, CSS, JavaScript
+Basic frontend-backend integration
+⚙️ DevOps & Infrastructure
+Linux (file system, permissions, basic shell usage)
+Git & GitHub (version control, workflows)
+Maven (build automation)
+Docker (containerization)
+Kubernetes (fundamentals)
+Jenkins (CI/CD basics)
+AWS (EC2, S3, IAM – foundational understanding)
+Postman (API testing)
+🧠 Currently Focused On
+🔥 Spring & Spring Boot (Production-level backend development)
+🧩 Data Structures & Algorithms (Problem-solving mindset)
+⚙️ DevOps Hands-on (CI/CD + Containers + Deployment)
+🏗️ Building real-world backend + deployment projects
+🎯 Vision
 
-### 🧠 Currently Learning  
-- Advanced Java  
-- Spring & Spring Boot  
-- DSA with Java  
-- DevOps (hands-on focus)
+To become a high-impact engineer who can:
 
-## 🤝 Connect With Me  
-- 💼 LinkedIn: *Manu SH* 
+Design scalable backend systems
+Automate infrastructure using DevOps practices
+Build intelligent systems using AI + backend integration
+📈 What Sets Me Apart
+Strong fundamentals-first approach
+Focus on real-world system building, not just theory
+Continuous transition from developer → engineer → builder
+🤝 Connect With Me
+💼 LinkedIn: Manu SH
