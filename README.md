@@ -21,7 +21,11 @@ Backend-focused developer with a strong foundation in Java and system design pri
 ### 👨‍💻 Backend Engineering  
 - Java (Core, OOP, Collections, Multithreading)  
 - JDBC, Hibernate  
+- Spring Framework (Core, MVC)  
+- Spring Boot  
+- Spring Security  
 - REST API Development  
+- Microservices Architecture (basics)  
 - SQL (Relational Database Design & Queries)  
 
 ### 🌐 Web Technologies  
