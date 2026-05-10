@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manu SH  
 
-🚀 **Java Backend Engineer | DevOps Engineer**                                                                 portfolio: https://my-portfolio-two-omega-78.vercel.app/
+🚀 **Java Backend Engineer | DevOps Engineer**                                                               
 📍 Bengaluru, India  
 
 ---
@@ -74,3 +74,4 @@ To become a high-impact engineer who can:
 ## 🤝 Connect With Me  
 
 - 💼 LinkedIn: **Manu SH**  
+- 🌐 Portfolio: https://my-portfolio-two-omega-78.vercel.app/
