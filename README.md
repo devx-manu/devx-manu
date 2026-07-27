@@ -1,77 +1,131 @@
-# 👋 Hi, I'm Manu SH  
+# 👋 Hi, I'm Manu S
 
-🚀 **Java Backend Engineer | DevOps Engineer**                                                               
-📍 Bengaluru, India  
+**Aspiring Financial & Data Analyst | Economics & Markets Enthusiast | SQL • Python • Excel • Power BI**
 
----
-
-## 🧑‍💻 About Me  
-
-Backend-focused developer with a strong foundation in Java and system design principles, currently evolving into a DevOps-driven engineer.
-
-- ⚙️ Building scalable backend systems using the Java ecosystem  
-- 🔐 Understanding real-world security (Spring Security, API protection)  
-- ☁️ Transitioning into a Cloud & DevOps engineering mindset  
-- 🧠 Long-term vision: AI-powered systems and automation platforms  
+📍 Bengaluru, India
 
 ---
 
-## 🛠️ Tech Stack  
+# 💼 About Me
 
-### 👨‍💻 Backend Engineering  
-- Java (Core, OOP, Collections, Multithreading)  
-- JDBC, Hibernate  
-- Spring Framework (Core, MVC)  
-- Spring Boot  
-- Spring Security  
-- REST API Development  
-- Microservices Architecture (basics)  
-- SQL (Relational Database Design & Queries)  
+I am an aspiring Financial and Data Analyst with a strong interest in finance, economics, capital markets, and data-driven decision making.
 
-### 🌐 Web Technologies  
-- HTML, CSS, JavaScript  
-- Basic frontend-backend integration  
+My background in Computer Applications has given me analytical thinking and technical problem-solving skills, which I am now applying to finance and business analytics.
 
-### ⚙️ DevOps & Infrastructure  
-- Linux (file system, permissions, basic shell usage)  
-- Git & GitHub (version control, workflows)  
-- Maven (build automation)  
-- Docker (containerization)  
-- Kubernetes (fundamentals)  
-- Jenkins (CI/CD basics)  
-- AWS (EC2, S3, IAM – foundational understanding)  
-- Postman (API testing)  
+I enjoy transforming raw data into meaningful insights, understanding how businesses create value, and studying financial markets through a quantitative lens.
+
+Currently, I am focused on building practical projects, strengthening analytical skills, and preparing for analyst roles while continuously expanding my knowledge of financial markets.
 
 ---
 
-## 🧠 Currently Focused On  
+# 📊 Core Skills
 
-- 🔥 Spring & Spring Boot (production-level backend development)  
-- 🧩 Data Structures & Algorithms (problem-solving mindset)  
-- ⚙️ DevOps hands-on (CI/CD, containers, deployment)  
-- 🏗️ Building real-world backend and deployment projects  
+### Data Analytics
+
+* Microsoft Excel
+* Advanced Excel (Learning)
+* SQL
+* Python for Data Analysis
+* Power BI
+* Data Cleaning
+* Data Visualization
+* Dashboard Development
+* Business Reporting
+
+### Finance & Business
+
+* Financial Statement Analysis
+* Financial Modeling (Learning)
+* Business Analysis
+* Market Research
+* Economics Fundamentals
+* Corporate Finance Fundamentals
+* Investment & Capital Markets
+
+### Technical Skills
+
+* Relational Databases
+* Data Manipulation
+* Basic Automation using Python
+* Git & GitHub
 
 ---
 
-## 🎯 Vision  
+# 📚 Currently Learning
 
-To become a high-impact engineer who can:
-
-- Design scalable backend systems  
-- Automate infrastructure using DevOps practices  
-- Build intelligent systems using AI + backend integration  
-
----
-
-## 📈 What Sets Me Apart  
-
-- Strong fundamentals-first approach  
-- Focus on real-world system building, not just theory  
-- Continuous growth from developer → engineer → builder  
+* Advanced Excel
+* Power BI
+* Python for Finance & Analytics
+* Financial Modeling
+* Valuation Techniques
+* Corporate Finance
+* Investment Research
+* Economics
+* Capital Markets
+* Statistics for Data Analytics
 
 ---
 
-## 🤝 Connect With Me  
+# 🚀 Current Focus
 
-- 💼 LinkedIn: **Manu SH**  
-- 🌐 Portfolio: https://my-portfolio-two-omega-78.vercel.app/
+* Building portfolio-ready analytics projects
+* Solving real-world business problems using data
+* Learning finance from first principles
+* Developing dashboards and reports
+* Understanding financial markets and investment analysis
+* Improving quantitative and analytical thinking
+
+---
+
+# 📂 Projects
+
+I use GitHub to document my learning journey and build practical projects involving:
+
+* Financial Analysis
+* Excel Dashboards
+* SQL Case Studies
+* Python Data Analysis
+* Power BI Dashboards
+* Business Analytics
+* Market & Economic Research
+
+More projects are being added regularly.
+
+---
+
+# 🎯 Career Goal
+
+To become a skilled Financial Analyst capable of combining finance, economics, and data analytics to support business decisions and investment research.
+
+My long-term objective is to develop expertise across:
+
+* Financial Analysis
+* Business Intelligence
+* Investment Research
+* Quantitative Analysis
+* Trading & Capital Markets
+
+---
+
+# 📈 What You'll Find Here
+
+* Analytics Projects
+* Finance Projects
+* SQL Practice
+* Python Notebooks
+* Power BI Dashboards
+* Excel Models
+* Learning Notes
+* Open-source Learning Journey
+
+---
+
+# 🤝 Let's Connect
+
+💼 **LinkedIn:** Manu S
+
+🌐 **Portfolio:** https://my-portfolio-two-omega-78.vercel.app/
+
+---
+
+> *"Continuous learning, disciplined execution, and data-driven decisions create long-term success."*
