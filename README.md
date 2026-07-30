@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manu S
 
-### Software Developer | Java Full Stack Developer | Aspiring Financial & Data Analyst
+### Software Developer | Java Full Stack Developer | Aspiring Data Analyst
 
 📍 Bengaluru, India
 
@@ -10,7 +10,7 @@
 
 I'm a Bachelor of Computer Applications (BCA) graduate passionate about solving real-world problems through technology and data.
 
-My foundation is in **Java Full Stack Development**, where I've built scalable web applications, REST APIs, authentication systems, and backend architectures using modern Java technologies. Alongside software development, I'm expanding my expertise in **Data Analytics**, **Business Intelligence**, and **Financial Analysis** to bridge technology with data-driven decision making.
+My foundation is in **Java Full Stack Development**, where I've built scalable web applications, REST APIs, authentication systems, and backend architectures using modern Java technologies. Alongside software development, I'm expanding my expertise in **Data Analytics**, and **Business Intelligence**, and to bridge technology with data-driven decision making.
 
 I enjoy building practical projects, learning continuously, and transforming ideas into impactful solutions.
 
@@ -69,14 +69,6 @@ I enjoy building practical projects, learning continuously, and transforming ide
 
 ## 📚 Currently Learning
 
-* Advanced Excel
-* Power BI
-* Python for Finance & Analytics
-* Financial Modeling
-* Statistics for Data Analytics
-* Corporate Finance
-* Investment Research
-* Capital Markets
 * Advanced Spring Boot
 * System Design
 
@@ -129,8 +121,6 @@ I aim to build expertise at the intersection of:
 * Software Engineering
 * Data Analytics
 * Business Intelligence
-* Financial Analysis
-* Investment Research
 
 My goal is to create solutions that combine technology, analytics, and business understanding to solve meaningful problems.
 
@@ -156,15 +146,13 @@ My goal is to create solutions that combine technology, analytics, and business 
 * Python Analytics Projects
 * Power BI Dashboards
 * Excel Models
-* Financial Analysis Projects
-* Learning Notes
 * Open-source Contributions
 
 ---
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: **Manu S**
+* 💼 LinkedIn: **Manu SH**
 * 🌐 Portfolio: **https://my-portfolio-two-omega-78.vercel.app/**
 
 ---
