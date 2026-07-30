@@ -1,131 +1,172 @@
 # 👋 Hi, I'm Manu S
 
-**Aspiring Financial & Data Analyst | Economics & Markets Enthusiast | SQL • Python • Excel • Power BI**
+### Software Developer | Java Full Stack Developer | Aspiring Financial & Data Analyst
 
 📍 Bengaluru, India
 
 ---
 
-# 💼 About Me
+## 💫 About Me
 
-I am an aspiring Financial and Data Analyst with a strong interest in finance, economics, capital markets, and data-driven decision making.
+I'm a Bachelor of Computer Applications (BCA) graduate passionate about solving real-world problems through technology and data.
 
-My background in Computer Applications has given me analytical thinking and technical problem-solving skills, which I am now applying to finance and business analytics.
+My foundation is in **Java Full Stack Development**, where I've built scalable web applications, REST APIs, authentication systems, and backend architectures using modern Java technologies. Alongside software development, I'm expanding my expertise in **Data Analytics**, **Business Intelligence**, and **Financial Analysis** to bridge technology with data-driven decision making.
 
-I enjoy transforming raw data into meaningful insights, understanding how businesses create value, and studying financial markets through a quantitative lens.
-
-Currently, I am focused on building practical projects, strengthening analytical skills, and preparing for analyst roles while continuously expanding my knowledge of financial markets.
+I enjoy building practical projects, learning continuously, and transforming ideas into impactful solutions.
 
 ---
 
-# 📊 Core Skills
+## 🛠️ Tech Stack
 
-### Data Analytics
+### 💻 Programming
+
+* Java
+* Python
+* SQL
+* JavaScript
+
+### ⚙️ Backend
+
+* Spring Boot
+* Spring Security
+* Hibernate
+* JPA
+* REST APIs
+* JWT Authentication
+
+### 🎨 Frontend
+
+* HTML
+* CSS
+* Bootstrap
+* Tailwind CSS
+
+### 🗄️ Databases
+
+* MySQL
+* PostgreSQL
+
+### 📊 Data Analytics
 
 * Microsoft Excel
-* Advanced Excel (Learning)
-* SQL
+* SQL Analytics
 * Python for Data Analysis
 * Power BI
 * Data Cleaning
 * Data Visualization
 * Dashboard Development
-* Business Reporting
 
-### Finance & Business
+### 🔧 Tools
 
-* Financial Statement Analysis
-* Financial Modeling (Learning)
-* Business Analysis
-* Market Research
-* Economics Fundamentals
-* Corporate Finance Fundamentals
-* Investment & Capital Markets
-
-### Technical Skills
-
-* Relational Databases
-* Data Manipulation
-* Basic Automation using Python
 * Git & GitHub
+* Maven
+* Postman
+* Render
+* Vercel
+* Neon PostgreSQL
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 * Advanced Excel
 * Power BI
 * Python for Finance & Analytics
 * Financial Modeling
-* Valuation Techniques
+* Statistics for Data Analytics
 * Corporate Finance
 * Investment Research
-* Economics
 * Capital Markets
-* Statistics for Data Analytics
+* Advanced Spring Boot
+* System Design
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Featured Projects
 
-* Building portfolio-ready analytics projects
-* Solving real-world business problems using data
-* Learning finance from first principles
-* Developing dashboards and reports
-* Understanding financial markets and investment analysis
-* Improving quantitative and analytical thinking
+### 🔹 Digital Asset Lending System
+
+A full-stack web application for managing digital asset lending with secure authentication, role-based access, and RESTful architecture.
+
+**Tech:** Java, Spring Boot, Spring Security, PostgreSQL, JWT
 
 ---
 
-# 📂 Projects
+### 🔹 API Rate Limiter & Abuse Detection System
 
-I use GitHub to document my learning journey and build practical projects involving:
+Designed and implemented a backend system to protect APIs using request throttling, abuse detection, and monitoring mechanisms.
 
-* Financial Analysis
-* Excel Dashboards
+**Tech:** Java, Spring Boot, Redis (concepts), REST APIs
+
+---
+
+### 🔹 Protonova
+
+A modern full-stack application showcasing scalable backend architecture, authentication, and responsive UI development.
+
+---
+
+### 📊 Analytics Projects
+
+I'm actively building projects involving:
+
 * SQL Case Studies
 * Python Data Analysis
+* Excel Dashboards
 * Power BI Dashboards
-* Business Analytics
-* Market & Economic Research
+* Financial Analysis
+* Business Intelligence
+* Market Research
 
 More projects are being added regularly.
 
 ---
 
-# 🎯 Career Goal
+## 🎯 Career Goals
 
-To become a skilled Financial Analyst capable of combining finance, economics, and data analytics to support business decisions and investment research.
+I aim to build expertise at the intersection of:
 
-My long-term objective is to develop expertise across:
-
-* Financial Analysis
+* Software Engineering
+* Data Analytics
 * Business Intelligence
+* Financial Analysis
 * Investment Research
-* Quantitative Analysis
-* Trading & Capital Markets
+
+My goal is to create solutions that combine technology, analytics, and business understanding to solve meaningful problems.
 
 ---
 
-# 📈 What You'll Find Here
+## 📈 Current Focus
 
-* Analytics Projects
-* Finance Projects
+* Building portfolio-ready projects
+* Writing clean, maintainable code
+* Strengthening backend development skills
+* Developing analytics dashboards
+* Learning financial analysis and valuation
+* Improving problem-solving through real-world datasets
+
+---
+
+## 🌱 What You'll Find Here
+
+* Java Full Stack Projects
+* Spring Boot Applications
+* REST API Development
 * SQL Practice
-* Python Notebooks
+* Python Analytics Projects
 * Power BI Dashboards
 * Excel Models
+* Financial Analysis Projects
 * Learning Notes
-* Open-source Learning Journey
+* Open-source Contributions
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-💼 **LinkedIn:** Manu S
-
-🌐 **Portfolio:** https://my-portfolio-two-omega-78.vercel.app/
+* 💼 LinkedIn: **Manu S**
+* 🌐 Portfolio: **https://my-portfolio-two-omega-78.vercel.app/**
 
 ---
 
-> *"Continuous learning, disciplined execution, and data-driven decisions create long-term success."*
+> *"Continuous learning, disciplined execution, and curiosity are the foundation of meaningful growth."*
